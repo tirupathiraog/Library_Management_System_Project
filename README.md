@@ -1,5 +1,8 @@
 # 📚 Library Management System (SQL Project)
 
+![Library Management System](library.png)
+
+
 ## 🚀 Project Overview
 
 This project demonstrates the implementation of a **Library Management System** using SQL. It showcases **database design**, **CRUD operations**, **CTAS**, and **advanced querying techniques** to manage library operations such as book issues, returns, employees, and members efficiently.
